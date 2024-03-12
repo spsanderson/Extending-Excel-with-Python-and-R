@@ -5,7 +5,7 @@ library(healthyR)
 library(readxl)
 
 # Source Functions
-source(paste0(getwd(),"/chapter1/excel_sheet_reader.R"))
+source(paste0(getwd(),"/Chapter1/excel_sheet_reader.R"))
 
 # Read data
 file_path <- paste0(getwd(), "/Chapter14/")
